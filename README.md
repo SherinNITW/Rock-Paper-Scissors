@@ -1,7 +1,5 @@
-Rock Paper Scissors Game
-
-Introduction :
-  A simple web-based Rock Paper Scissors game where the player competes against a computer that generates random choices.
+                                        Rock Paper Scissors Game 
+A simple web-based Rock Paper Scissors game where the player competes against a computer that generates random choices.
 
 Features :
   Player can choose Rock, Paper, or Scissors.
